@@ -16,7 +16,7 @@ It uses:
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit spezifisch/svelte-template svelte-app
+pnpx degit spezifisch/svelte-template svelte-app
 cd svelte-app
 ```
 
